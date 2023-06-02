@@ -4,7 +4,11 @@
     background-color: blue;
     justify-content: center;
     align-items: center;
+
     max-width: 75%;
+
+    max-width: 85%;
+
     margin: 0 auto;
     color: white;
 }
@@ -20,6 +24,8 @@
     flex-direction: column;
     margin: 0 auto;
     max-width: 75%;
+    max-width: 85%;
+    
 }
 
 img {
@@ -33,6 +39,7 @@ footer {
     align-items: center;
     justify-content: center;
     max-width: 75%;
+    max-width: 85%;
     height: 120px;
     margin: 0 auto;
     background-color: blue;
@@ -52,3 +59,6 @@ ul {
     padding-left: 40px;
     font-size: 22px;
 }
+    font-size: 22px;
+}
+

@@ -1,1 +1,0 @@
-let topic = "HTML, CSS, Git, Javascript"
